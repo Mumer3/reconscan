@@ -254,26 +254,6 @@ reconscan/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to get started:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit: `git commit -m "Add: your feature description"`
-4. Push to your fork: `git push origin feature/your-feature-name`
-5. Open a Pull Request
-
-Please keep code clean, add comments for non-obvious logic, and test against a domain you own before submitting.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
 Built for security researchers · Use responsibly · Happy hunting 🎯
